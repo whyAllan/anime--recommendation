@@ -1,0 +1,26 @@
+body,
+html {
+  background-color: rgb(24, 24, 24);
+  color: white;
+}
+
+h1 {
+  margin: 30px;
+}
+
+#introduction {
+  margin: 50px;
+}
+
+#introduction p,
+#introduction div {
+  margin-left: 20px;
+  max-width: 80%;
+}
+
+.recommendation {
+  margin: 20px;
+  padding: 20px;
+  background-color: rgb(40, 40, 40);
+  border-left: 4px solid green;
+}
