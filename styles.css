@@ -10,6 +10,7 @@ h1 {
 
 #introduction {
   margin: 50px;
+  border-bottom: 4px solid rgba(136, 13, 13, 0.538);
 }
 
 #introduction p,
@@ -67,4 +68,11 @@ h1 {
   margin-bottom: 20px;
   font-size: large;
   font-family: "Georgia", serif;
+}
+
+#footer {
+  margin-top: 20px;
+  border-top: 4px solid rgba(136, 13, 13, 0.538);
+  display: flex;
+  justify-content: center;
 }
